@@ -1,0 +1,24 @@
+{
+  "name": "watch-list-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrcDbs/watch-list-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrcDbs/watch-list-BE/issues"
+  },
+  "homepage": "https://github.com/MrcDbs/watch-list-BE#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mysql2": "^3.8.0"
+  }
+}
